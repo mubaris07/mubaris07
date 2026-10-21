@@ -1,40 +1,42 @@
 # Hi, I'm Mubaris
 
-Aspiring Rust backend engineer, currently building fundamentals from the ground up.
+Aspiring Rust backend engineer. Currently building fundamentals from zero.
 
 ---
 
 ## What I'm doing right now
 
-- Learning programming basics (JavaScript → Rust)
-- Following the RustBridge roadmap: Web2 foundations → Rust backend → production engineering
-- Documenting my progress publicly on GitHub
+- Learning programming through JavaScript (foundation for Rust)
+- Following the RustBridge roadmap : Web2 → Rust backend → Production engineering
+- Documenting everything publicly here
 
 ---
 
 ## Current focus
 
-Building a strong foundation in:
-- **JavaScript/TypeScript** — programming logic, async patterns
-- **Node.js & PostgreSQL** — backend fundamentals
-- **Rust** — ownership, systems programming
+| Area | Status |
+|------|--------|
+| HTML/CSS | ✅ Basics done |
+| JavaScript | 🔄 In progress |
+| Node.js | ⬜ Not started |
+| Rust | ⬜ Not started |
+
+---
+
+## Roadmap
+
+- [ ] **Phase 1:** Web2 Foundations (JavaScript, TypeScript, Node.js, React, PostgreSQL)
+- [ ] **Phase 2:** Rust Backend (Rust, Cargo, Tokio, Axum, SQLx)
+- [ ] **Phase 3:** Production Engineering (Linux, Docker, AWS, CI/CD)
+- [ ] **Phase 4:** Build & deploy a real project
 
 ---
 
 ## Background
 
-Starting from zero. No prior programming experience — just HTML/CSS and determination. 
-Transitioning into tech with a clear goal: become a production-ready Rust backend engineer.
+No CS degree. No bootcamp. Just HTML/CSS and 5-6 hours a day of focused learning.
+Transitioning into tech with one goal: **become a production-ready Rust backend engineer.**
 
 ---
 
-## Goals
-
-- [ ] Complete Web2 foundations (JavaScript, Node.js, React, SQL)
-- [ ] Master Rust fundamentals
-- [ ] Build and deploy a real backend project
-- [ ] Land a junior Rust backend role
-
----
-
-*This profile is a work in progress. Watch it grow.*
+*This profile will look very different in 12 months. Watch it happen.*
